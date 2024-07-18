@@ -1,4 +1,4 @@
-ESERCITAZIONE 03: PREZZO DELLE OPZIONI.
+ESERCITAZIONE 03: PREZZO DELLE OPZIONI
 
 Per tutte le cartelle Esercizio_03 valgono le seguenti istruzioni per:
 
